@@ -21,7 +21,7 @@ function App() {
         <div class="wrapper">
           <div class="clock">
             <div class="hours" id="hours">{hrs}</div>
-            <label for="hours">Hours [{states}]</label>
+            <label for="hours">Hours  [{states}]</label>
           </div>
           :
           <div class="clock">
